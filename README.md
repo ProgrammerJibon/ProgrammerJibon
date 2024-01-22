@@ -48,7 +48,7 @@
 <br/>
 
 ## :mailbox: Reach me out
-<p align="center">[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png"> ](https://www.linkedin.com/in/ProgrammerJibon) [<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://web.facebook.com/ProgrammerJibon7/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> ](https://twitter.com/ProgrammerJibon)</p>
+[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png"> ](https://www.linkedin.com/in/ProgrammerJibon) [<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://web.facebook.com/ProgrammerJibon7/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/ProgrammerJibon)
 
 
 
