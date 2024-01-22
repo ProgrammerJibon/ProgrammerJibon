@@ -31,15 +31,15 @@
 <p><a href="https://www.buymeacoffee.com/programmerjibon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="programmerjibon" /></a></p><br><br>
 
 
-<br><br>- Most Used Language
+<h3 align="left">Most Used Language</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=programmerjibon&show_icons=true&locale=en&layout=compact" alt="programmerjibon" /></p>
 
 
-<br><br>- Most Used Language
+<h3 align="left">Most Used Language</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=programmerjibon&show_icons=true&locale=en" alt="programmerjibon" /></p>
 
 
-<br><br>- Most Used Language
+<h3 align="left">Most Used Language</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=programmerjibon&" alt="programmerjibon" /></p>
 <br><br><br>
 
